@@ -1,0 +1,5 @@
+
+*.vsidx
+leetcode/LeetCode/.vs/
+leetcode/LeetCode/bin/
+leetcode/LeetCode/obj/
