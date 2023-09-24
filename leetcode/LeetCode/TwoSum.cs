@@ -61,6 +61,8 @@ namespace LeetCode
 
        public void execute()
         {
+            Console.WriteLine("--------------------");
+            Console.WriteLine("1. Two Sum");
             var TwoSum = new TwoSum();
             int[] nums = { 2, 7, 11, 15 };
             int target = 9;

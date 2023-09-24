@@ -9,6 +9,9 @@ TwoSum();
 // 2. Add Two Numbers
 AddTwoNumbers();
 
+// 3. Longest Substring Without Repeating Characters
+LongestSubstringWithoutRepeatingCharacters();
+
 void TwoSum()
 {
     var TwoSum = new TwoSum();
@@ -19,4 +22,10 @@ void AddTwoNumbers()
 {
     var AddTwoNumbers = new AddTwoNumbers();
     AddTwoNumbers.execute();
+}
+
+void LongestSubstringWithoutRepeatingCharacters()
+{
+    var LongestSubstring = new LongestSubstringWithoutRepeatingCharacters();
+    LongestSubstring.execute();
 }
